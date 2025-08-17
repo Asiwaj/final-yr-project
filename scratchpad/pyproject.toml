@@ -1,0 +1,16 @@
+[project]
+name = "scratchpad"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cohere>=5.16.2",
+    "outetts==0.2.3",
+    "scipy>=1.16.1",
+    "sounddevice>=0.5.2",
+    "torch>=2.8.0",
+    "transformers>=4.55.0",
+    "uroman>=1.3.1.1",
+    "yarngpt>=0.1.7",
+]
